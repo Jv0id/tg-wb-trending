@@ -14,11 +14,11 @@ Github Actions每天自动抓取微博热搜归档 [网站](https://jp0id.github
 
 4. 在github的项目设置中设置TOKEN和CHANNEL_ID
 
-![](https://cdn.jsdelivr.net/gh/jp0id/images@master/uPic/2021-04-03/GDhkx7.png)
+![](https://cdn.jsdelivr.net/gh/xiadd/images@master/uPic/2021-04-03/GDhkx7.png)
 
 5. 将docs/public/CNAME改为自己的域名，github pages设置为gh-pages分支
 
-![](https://cdn.jsdelivr.net/gh/jp0id/images@master/uPic/2021-04-03/CpsJjB.png)
+![](https://cdn.jsdelivr.net/gh/xiadd/images@master/uPic/2021-04-03/CpsJjB.png)
 
 ## 开发
 
